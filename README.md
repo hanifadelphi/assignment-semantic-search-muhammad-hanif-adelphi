@@ -38,5 +38,4 @@ Pengujian dilakukan menggunakan 5 query bervariasi:
 ## Cara Menjalankan Project
 1. Clone repository ini:
    ```bash
-   git clone <LINK_REPO_KAMU>
-   cd assignment-semantic-search-nama-peserta
+   git clone https://github.com/hanifadelphi/assignment-semantic-search-muhammad-hanif-adelphi
